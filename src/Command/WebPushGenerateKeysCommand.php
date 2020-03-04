@@ -50,5 +50,7 @@ bentools_webpush:
         private_key: '{$keys['privateKey']}'    
 EOF
         );
+
+        return 0;
     }
 }
